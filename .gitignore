@@ -11,3 +11,9 @@ lab4/zad4_1/zad4_1.vcxproj
 lab4/zad4_1/zad4_1.vcxproj.filters
 lab4/zad4_1/zad4_1.vcxproj.user
 lab4/lab4.sln
+/lab4/zad4_2/Debug
+*.log
+*.tlog
+*.vcxproj
+*.filters
+*.user
