@@ -17,3 +17,8 @@ lab4/lab4.sln
 *.vcxproj
 *.filters
 *.user
+*.ilk
+*.recipe
+*.obj
+*.idb
+*.pdb
