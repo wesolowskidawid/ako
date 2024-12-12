@@ -22,3 +22,8 @@ lab4/lab4.sln
 *.obj
 *.idb
 *.pdb
+/lab5/.vs
+/lab5/Debug
+lab5/lab5.sln
+/lab5/x64
+/lab5/zad5_1/.vs
