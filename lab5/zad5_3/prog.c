@@ -21,6 +21,6 @@ int main()
 	char r[16];
 	dodaj_SSE(liczby_A, liczby_B , r);
 	for (int i = 0; i < 16; i++)
-		printf("r[%d] = %c\n", i, r[i]);
+		printf("r[%d] = %d\n", i, r[i]);
 	return 0;
 }
