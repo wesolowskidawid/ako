@@ -36,3 +36,5 @@ lab5/lab5.sln
 *.CRF
 *.EXE
 *.LST
+/egzamin/.vs
+/egzamin/egz
